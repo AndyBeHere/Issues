@@ -1,4 +1,4 @@
-# Issues
+# Sudo部分命令出现command not found
 
 ## 问题定位
 

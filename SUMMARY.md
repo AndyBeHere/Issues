@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Issues](README.md)
+* [Sudo部分命令出现command not found](README.md)
 
